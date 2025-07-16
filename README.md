@@ -1,94 +1,116 @@
-# 🧠 SQL-Based Business Insights — Jenson USA
-Dashboard link : https://public.tableau.com/app/profile/ayan.ghosh7733/viz/Book1_17525976594720/Story1
+🚴‍♂️ Jenson USA Sales Analysis Project
+Data Analytics Case Study using SQL & Tableau
 
-📊 A data analytics project using SQL to extract actionable business insights for **Jenson USA**, a leading online retailer of bicycles and cycling accessories.
+Dashboard link: https://public.tableau.com/app/profile/ayan.ghosh7733/viz/Book1_17525976594720/Story1
 
-## 📌 Project Overview
 
-This project focuses on deriving data-driven insights using SQL to help Jenson USA:
-- Optimize store and staff performance
-- Enhance customer experience
-- Improve inventory management
+📌 Overview
+This project analyzes sales, customer behavior, staff performance, and inventory trends for Jenson USA, a leading bicycle retailer. Using MySQL and Tableau, we derived actionable insights to improve store operations, customer satisfaction, and inventory efficiency.
 
-Prepared by **Ayan Ghosh**
+📊 Dashboard Preview
+📌 Multi-Page Tableau Dashboard Summary
+Metric	Value
+Revenue	$7,689,117
+Total Orders	7,078
+Average Order Value	$1,628
+Total Customers	1,445
 
----
+📁 Project Structure
+Section	Description
+📌 Company Overview	Brief about Jenson USA
+🎯 Project Goals	Objective & purpose
+📥 Data Cleaning	Data processed using MySQL
+📈 Dashboard Design	Visuals and KPIs using Tableau
+📢 Key Insights	Business conclusions
+🚀 Recommendations	Strategic suggestions
 
-## 🏢 About the Company
+💡 Project Goals
+Optimize Store and Staff Performance
 
-**Jenson USA** is an established cycling retailer operating since 1994, offering bikes, parts, and gear both online and through physical stores in Corona and Riverside, California. They are also active in community initiatives like *Commute for Kids*, *World Bicycle Relief*, and *IMBA*.
+Enhance Customer Experience
 
----
+Improve Inventory Management
 
-## 🎯 Project Objectives
+🛠 Tools Used
+SQL (MySQL) — Data analysis & transformation
 
-- ✅ **Optimize Store and Staff Performance**: Identify top and underperforming staff, analyze store efficiency.
-- ✅ **Enhance Customer Experience**: Understand spending behavior and target high-value customers.
-- ✅ **Improve Inventory Management**: Track product performance, manage stock levels, reduce waste.
+Tableau — Interactive visualization
 
----
+PowerPoint / PDF — Project presentation
 
-## 🧩 SQL Query Themes
+🧮 SQL Queries Highlights
+✅ Store & Staff Analysis
+Staff with zero sales
 
-### 🔹 Store & Staff Performance
-- Total orders per customer per store
-- Staff with no sales
-- Staff with above-average sales
+Staff outperforming average sales
 
-### 🔹 Customer Experience
-- Highest-spending customers
-- Customers ordering from all categories
+Orders placed per customer per store
 
-### 🔹 Inventory Management
-- Products sold per store
-- Cumulative product sales
-- Top-selling products by category
-- Products never ordered
-- Median product price
+✅ Customer Insights
+Customer with highest spend
 
----
+Customers who purchased from all product categories
 
-## 📈 Key Insights
+✅ Inventory Management
+Top-selling products (by quantity & value)
 
-- Identified **top-performing** and **underperforming staff**
-- Recognized **high-value customers** for loyalty programs
-- Tracked **unsold products** to reduce dead stock
-- Highlighted **top 3 most sold products** to guide stock decisions
+Never-ordered products (via EXISTS)
 
----
+Cumulative product sales over time
 
-## 🛠 Recommendations
+📌 Tableau Dashboards
+Executive Summary – Revenue, Orders, AOV, and Customer Overview
 
-### Staff & Store Performance
-- Provide training for low-performing employees
-- Incentivize high achievers
-- Address underperforming stores
+City & Store Analysis – Geographic sales heatmap
 
-### Customer Strategy
-- Personalized marketing for top spenders
-- Implement customer loyalty programs
+Monthly Trends – Revenue over time
 
-### Inventory Strategy
-- Optimize stock for high-demand items
-- Remove low-performing SKUs
+Product Categories & Brands – Dynamic bar charts by sales
 
----
+Customer Behavior – Sales by quantity, top customers
 
-## 📚 Tools Used
+Moving Average & YOY Growth – Time-series performance
 
-- **SQL**
-- **DBMS (e.g., MySQL/PostgreSQL)**
+Top Products by Sales – Treemap with best-sellers
 
----
+📷 [Insert dashboard screenshots or Tableau Public link]
 
-## 🙋‍♂️ Author
+📈 Key Insights
+Baldwin Bikes contributed over 67% of total revenue
 
-**Ayan Ghosh**  
-📧 ayanghosh6291@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ayan-ghosh-b9955933a/)
+Mountain Bikes were the top-selling category
 
----
+Trek dominated brand sales with over 3M in revenue
 
-## 📌 License
+Peak sales in April; low in July and May
 
-This project is for educational and portfolio purposes.
+✅ Recommendations
+👨‍💼 Store & Staff:
+Provide training to low-performing staff
+
+Reward top performers
+
+🛒 Customer Strategy:
+Launch loyalty programs for high spenders
+
+Use dynamic targeting for cross-category buyers
+
+📦 Inventory:
+Maintain stock of high-demand products
+
+Discontinue products never ordered
+
+📁 Resources
+📄 PDF Report: Included in /reports
+
+📷 Tableau Dashboard Images: See /dashboards folder
+
+🗃 SQL Queries: Coming soon in /sql-scripts
+
+🙋‍♂️ About Me
+Ayan Ghosh
+📍 Data Analyst | 📧 ayanghosh6291@gmail.com
+🔗 LinkedIn | GitHub
+
+🏁 Conclusion
+This project showcases how data-driven decision-making using SQL and Tableau can significantly improve business outcomes across departments—store operations, customer service, and inventory planning.
