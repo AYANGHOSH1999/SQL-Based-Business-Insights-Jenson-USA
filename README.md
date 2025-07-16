@@ -1,4 +1,4 @@
-*🚴‍♂️ Jenson USA Sales Analysis Project*
+*🚴‍♂️ Jenson USA Sales Analysis Project
 **Data Analytics Case Study using SQL & Tableau**
 
 Dashboard link: https://public.tableau.com/app/profile/ayan.ghosh7733/viz/Book1_17525976594720/Story1
