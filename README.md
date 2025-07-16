@@ -1,5 +1,5 @@
-🚴‍♂️ Jenson USA Sales Analysis Project
-Data Analytics Case Study using SQL & Tableau
+***🚴‍♂️ Jenson USA Sales Analysis Project***
+**Data Analytics Case Study using SQL & Tableau**
 
 Dashboard link: https://public.tableau.com/app/profile/ayan.ghosh7733/viz/Book1_17525976594720/Story1
 
@@ -7,7 +7,7 @@ Dashboard link: https://public.tableau.com/app/profile/ayan.ghosh7733/viz/Book1_
 📌 Overview
 This project analyzes sales, customer behavior, staff performance, and inventory trends for Jenson USA, a leading bicycle retailer. Using MySQL and Tableau, we derived actionable insights to improve store operations, customer satisfaction, and inventory efficiency.
 
-📊 Dashboard Preview
+*📊 Dashboard Preview*
 📌 Multi-Page Tableau Dashboard Summary
 Metric	Value
 Revenue	$7,689,117
@@ -15,7 +15,7 @@ Total Orders	7,078
 Average Order Value	$1,628
 Total Customers	1,445
 
-📁 Project Structure
+*📁 Project Structure*
 Section	Description
 📌 Company Overview	Brief about Jenson USA
 🎯 Project Goals	Objective & purpose
@@ -24,7 +24,7 @@ Section	Description
 📢 Key Insights	Business conclusions
 🚀 Recommendations	Strategic suggestions
 
-💡 Project Goals
+*💡 Project Goals*
 Optimize Store and Staff Performance
 
 Enhance Customer Experience
@@ -110,7 +110,7 @@ Discontinue products never ordered
 🙋‍♂️ About Me
 Ayan Ghosh
 📍 Data Analyst | 📧 ayanghosh6291@gmail.com
-🔗 LinkedIn | GitHub
+🔗 LinkedIn: https://www.linkedin.com/in/ayan-ghosh-b9955933a/
 
 🏁 Conclusion
 This project showcases how data-driven decision-making using SQL and Tableau can significantly improve business outcomes across departments—store operations, customer service, and inventory planning.
